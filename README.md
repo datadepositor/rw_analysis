@@ -1,9 +1,9 @@
 # rw_analysis
 
 ## Main manuscript ##
-Table 1 do-file 2_estim.do
-Fig.1-2 do-file 1_descriptives.do
-Fig.3-4 do-file 3_policy.do
+- Table 1 do-file 2_estim.do
+- Fig.1-2 do-file 1_descriptives.do
+- Fig.3-4 do-file 3_policy.do
 
 ## Supplementary Materials ##
 Fig. S1-S4,S10 do-file 1_descriptives.do
